@@ -1,6 +1,6 @@
-### Hi there 👋
-
-<h1 align="center">Assalamu Alaikum, I'm Rifat Abrar Jowad</h1>
+### Hi there 
+[](opening.mp4)
+<h1 align="center">Assalamu Alaikum, I'm Rifat Abrar Jowad 👋</h1>
 <!--
 **rifatabrarjowad/rifatabrarjowad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
