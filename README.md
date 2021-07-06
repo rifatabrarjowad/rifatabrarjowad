@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://codepen.io/rifatabrarjowad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="#" height="30" width="40" /></a>
 <a href="https://dev.to/rifatabrarjowad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="#" height="30" width="40" /></a>
-<a href="https://twitter.com/rifatabrarjowad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="md_mahbub_sk" height="30" width="40" /></a>
+<a href="https://twitter.com/rajdiprifat2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="md_mahbub_sk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rifatabrarjowad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="md-mahbub-sk" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14369930/rifat-abrar-jowad?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="#" height="30" width="40" /></a>
 <a href="https://codesandbox.com/rifatabrarjowad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="#" height="30" width="40" /></a>
