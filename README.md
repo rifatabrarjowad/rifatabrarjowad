@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/rajdiprifat2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="#" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rifatabrarjowad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="#" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rifatabrarjowad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="#" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/rifatabrarjowad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="#" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/rajdiprifat2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="#" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rifatabrarjowad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="#" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/rifatabrarjowad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="#" height="30" width="40" /></a>
 <a href="https://discord.gg/rifatabrarjowad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#" height="30" width="40" /></a>
