@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help  with Any kind of web devlopment project
 - 💬 Ask me about php, js and python
 
+## HackerRank Certificates
 
+<a href="./assets/images/car/py_basic.png">
+    <img src="./assets/images/Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
+</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/rifatabrarjowad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="#" height="30" width="40" /></a>
