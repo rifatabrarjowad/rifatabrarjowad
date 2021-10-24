@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/IIhIdvm.gif" alt="animated" />
+  <img src="https://user-images.githubusercontent.com/72505989/138610176-b3a677dd-3379-459d-adaa-84b227496430.gif" alt="animated" />
 </p>
+
 
 <h1 align="center">Hi, I'm Rifat Abrar Jowad 👋</h1>
 <!--
