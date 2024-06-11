@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img src="./assets/images/Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
 </a>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" >
 <a href="https://codepen.io/rifatabrarjowad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="#" height="30" width="40" /></a>
 <a href="https://dev.to/rifatabrarjowad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="#" height="30" width="40" /></a>
 <a href="https://twitter.com/rifatabrarjowad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="md_mahbub_sk" height="30" width="40" /></a>
@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rifatabrarjowad"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://facebook.com/rifatabrarjowad" /></a></p>
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=rifatabrarjowad" alt="rifatabrarjowad" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifatabrarjowad&show_icons=true&locale=en&layout=compact" alt="rifatabrarjowad" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifatabrarjowad&show_icons=true&locale=en" alt="rifatabrarjowad" /></p>
 📈 My GitHub Stats
